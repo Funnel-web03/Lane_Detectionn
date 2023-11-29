@@ -9,6 +9,8 @@ Steps :-
 6) using Houghline Transform (Probabalistic) define lines
 7) Draw lines on same size black image
 8) Perform weighted addition of original frame and line
+
+
 wholla.....You did the lane detection successfully using openCV
 
 make sure to adjust Regionn Of Interest Accoring to your input video
